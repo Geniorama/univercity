@@ -51,7 +51,7 @@
 						</div>
 					</div>
 					<div class="grid-item">
-						<img src="img/banner.jpg" alt="">
+						<img src="img/promocionales.jpg" alt="">
 						<div class="caption">
 							<a href="http://univercity.cataprom.com/seccion/inicio.html" class="link" target="_blank">Merchandising</a>
 						</div>

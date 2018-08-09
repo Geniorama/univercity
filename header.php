@@ -72,9 +72,10 @@
 							
 							<ul class="menu-social">
 								<li><p>Síguenos:</p></li>
-								<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-								<li><a href="#"><i class="fab fa-pinterest-p"></i></a></li>
-								<li><a href="#"><i class="fab fa-instagram"></i></a></li>
+								<li><a href="https://www.facebook.com/univercityagencia/"><i class="fab fa-facebook-f"></i></a></li>
+								<li><a href="https://co.pinterest.com/univercityagencia/"><i class="fab fa-pinterest-p"></i></a></li>
+								<li><a href="https://www.instagram.com/univercityagencia/"><i class="fab fa-instagram"></i></a></li>
+								<li><a href="https://www.linkedin.com/in/univercity-agencia-a445b9166/" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
 							</ul>
 						</div>
 				

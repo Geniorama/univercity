@@ -64,7 +64,7 @@ comentario o para establecer contacto con el equipo de UniverCity, ¡estamos ate
 </section>
 
 <div class="btn-wp">
-	<a href="https://wa.me/5211234567890?text=Me%20gustaría%20saber%20el%20precio%20del%20coche"><img src="img/whatsapp.png" alt="" class="img-fluid"></a>
+	<a href="https://wa.me/573208573862?text=Hola%20Univercity%20necesito%20informacion"><img src="img/whatsapp.png" alt="" class="img-fluid"></a>
 </div>
 
 
