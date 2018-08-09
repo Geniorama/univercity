@@ -1,0 +1,17 @@
+[03-Jul-2018 21:20:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on boolean in /home/univercity2014/public_html/univercity/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/univercity2014/public_html/univercity/index.php on line 8
+[03-Jul-2018 21:20:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on boolean in /home/univercity2014/public_html/univercity/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/univercity2014/public_html/univercity/index.php on line 8
+[03-Jul-2018 21:32:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on boolean in /home/univercity2014/public_html/univercity/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/univercity2014/public_html/univercity/index.php on line 8
+[05-Jul-2018 00:15:40 UTC] PHP Notice:  Undefined variable: pagina in /home/univercity2014/public_html/univercity/views/portafolio.view.php on line 62
+[05-Jul-2018 00:15:40 UTC] PHP Notice:  Undefined variable: pagina in /home/univercity2014/public_html/univercity/views/portafolio.view.php on line 65
+[05-Jul-2018 00:15:40 UTC] PHP Notice:  Undefined variable: numeroPaginas in /home/univercity2014/public_html/univercity/views/portafolio.view.php on line 70
+[05-Jul-2018 00:15:40 UTC] PHP Notice:  Undefined variable: pagina in /home/univercity2014/public_html/univercity/views/portafolio.view.php on line 80
+[05-Jul-2018 00:15:40 UTC] PHP Notice:  Undefined variable: numeroPaginas in /home/univercity2014/public_html/univercity/views/portafolio.view.php on line 80
